@@ -8,4 +8,4 @@ This is a project with lists of objects that are attacked.
     fetch https://raw.githubusercontent.com/cybermerlin/blacklist/main/ip
     pfctl -t black_list -T add -f ip
     ```
-- 
+- [phone](phone): spammers or scammers
