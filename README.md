@@ -9,3 +9,14 @@ This is a project with lists of objects that are attacked.
     pfctl -t black_list -T add -f ip
     ```
 - [phone](phone): spammers or scammers
+- [email](email): spammers or scammers
+- [ip.2way](ip.2way): IP for blocking anyway (in and out), w no conditions, just block it always. This file will filled by Snort when some virus or external activities will send our data from our system or will catch some data through unprivileged processes. (e.g. Ad-net, statistic catcher (ad.ya.ru, ad.google.com, msftncsi.com, ad.mail.ru, trk.mail.ru, mc.yandex.ru...)
+
+
+## TODO
+
+- [ ] add a list of companies w dirty activities (w description about all registered action):
+    - [ ] deception of employees
+    - [ ] cruel treatment
+    - [ ] ignoring environmental protection requirements
+    - [ ] abuse of trust
