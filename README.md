@@ -1,7 +1,7 @@
 # Black list
 
 List of scammers and angry bots.
-This is a project with lists of objects that are attacked.
+This is a project with lists of attacking objects.
 
 - [ip](ip): this is a file with SSH knockers and some ports scanners + http DDoS attackers and vulnerabilities scanners.
     ```sh
